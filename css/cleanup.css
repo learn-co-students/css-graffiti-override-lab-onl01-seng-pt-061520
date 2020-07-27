@@ -1,1 +1,3 @@
-/* write your override styles here */
+span.tag-1 { 
+    min-width: 300px;
+}
